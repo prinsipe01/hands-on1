@@ -1,0 +1,62 @@
+body{
+    background-color: lightblue;
+}
+.wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 80%;
+    text-align: center;
+    height: 700px;
+    
+}
+.logo{
+    height: 100px;
+    background-color: white;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    margin-bottom: 15px;
+}
+.nav{
+    height: 100px;
+    background-color: lightgoldenrodyellow;
+}
+.content{
+    margin-top: 15px;
+}
+.contA{
+    width: 50%;
+    background-color: lightpink;
+    height: 300px;
+    float: left;
+}
+.news{
+    width: 50%;
+    background-color: dimgray;
+    float: right;
+    height: 150px;
+}
+.updates{
+    width: 50%;
+    background-color: indianred;
+    float: right;
+    height: 150px;
+}
+.trends{
+    width: 100%;
+    background-color: white;
+    float: right;
+    height: 200px;
+}
+
+.footer{
+    float: left;
+    margin-top: 15px;
+    height: 50px;
+    width: 100%;
+    background-color: aqua; 
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    
+}
